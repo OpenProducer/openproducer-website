@@ -1,0 +1,23 @@
+/**
+ * About
+ */
+.newspack-setup-wizard__form_element_row {
+  display: flex;
+  margin-bottom: 32px;
+  margin-top: -16px; }
+  .newspack-setup-wizard__form_element_row > div {
+    margin: 0 0 0 16px; }
+    .newspack-setup-wizard__form_element_row > div:last-child {
+      margin-left: 0; }
+    .newspack-setup-wizard__form_element_row > div .newspack-text-control {
+      margin: 0; }
+  .newspack-setup-wizard__form_element_row + .newspack-select-control {
+    margin-bottom: 32px;
+    margin-top: -16px; }
+
+/**
+ * Setup
+ */
+#newspack-setup-wizard {
+  position: relative; }
+
